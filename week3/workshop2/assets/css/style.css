@@ -1,0 +1,50 @@
+header {
+    background-color: #0090e3;
+    height: 100px;
+}
+
+content {
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: #0090e3;
+}
+
+.row {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+    height: 500px;
+    background-color: cyan;
+}
+
+.row > div {
+    width: 50%;
+    height: 500px;
+    align-self: center;
+}
+
+.left {
+background-color: red;
+margin-right: -450px;
+height: 500px;
+}
+
+.right {
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+}
+
+#dark {
+color: blue;
+font-weight: bold;
+}
+
+#belgie {
+    color: rgb(39, 115, 186);
+}
