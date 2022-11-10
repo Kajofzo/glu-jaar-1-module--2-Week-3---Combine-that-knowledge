@@ -1,0 +1,78 @@
+body {
+    background-color: green;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+header {
+ background-color: lime;
+
+}
+
+content {
+background-color: yellow;
+height: 50;
+width: 100px;
+}
+
+footer {
+background-color: hotpink;
+
+}
+
+#lobbanner {
+    background-color: rgb(255, 255, 255); 
+    border: 1px solid;
+    display: flex;
+}
+
+.right {
+    background-color: orange;
+    width: 20%;
+    height: 800px;
+}
+
+.left {
+    background-color: brown;
+    width: 80%;
+    height: 800px;
+}
+
+#container {
+    background-color: blue;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.products {
+    display: flex;
+}
+
+.insideproductframe {
+    display: flex;
+}
+
+h1 {
+    background-color: purple;
+    
+}
+
+.product {
+    border: 3px solid;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: 40px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 300px;
+}
+
+.productpic {
+    width: 250px;
+    height: 250px;
+    border: 2px solid;
+}
